@@ -15,4 +15,6 @@
   - County with the largest number of votes: Denver
   - The winner is Diana DeGette with 272,892 votes which is 73.8%
 ### Election-Audit Summary
-  - 
+  - This script offers lots potential for calculate other election results with minimal change
+      + The script is not limited to count just 3 candidates but more
+      + The script can also provide even more metrics of the results for example median, mean
